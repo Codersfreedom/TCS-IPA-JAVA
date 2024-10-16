@@ -1,0 +1,6 @@
+- 1911 - Indian institute of science
+- 1932 - Air India(Tata airline) - JRD Tata
+- East india- tourism,sports and energy
+- West India - Education, migration and water
+- North india- Fields of livelihood,education and - urban habitat
+- South india - healthcare,agriculture and literacy
