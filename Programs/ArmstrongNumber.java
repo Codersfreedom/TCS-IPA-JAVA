@@ -12,7 +12,7 @@ public class ArmstrongNumber {
 
         for (int i = 0; i < input.length(); i++) {
 
-            sum += Math.pow(Integer.parseInt(String.valueOf(input.charAt(i))), 3);
+            sum += Math.pow(Integer.parseInt(String.valueOf(input.charAt(i))), input.length());
 
         }
 
