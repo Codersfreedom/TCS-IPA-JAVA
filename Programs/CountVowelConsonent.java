@@ -1,3 +1,5 @@
+package Programs;
+
 import java.util.Scanner;
 
 public class CountVowelConsonent {
@@ -18,7 +20,7 @@ public class CountVowelConsonent {
                 } else {
                     cn++;
                 }
-            }else{
+            } else {
                 System.out.println("NA");
             }
 
